@@ -1,64 +1,193 @@
-# Hi there, I'm Zaw Thet Tin 👋
-
 <div align="center">
+
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:00d4ff&height=200&section=header&text=Zaw%20Thet%20Tin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Solutions%20Engineer%20%7C%20CCNP%20%7C%20Cybersecurity%20Professional&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Solutions+Engineer+%F0%9F%9A%80;Network+%26+Cybersecurity+Expert+%F0%9F%94%90;CCNP+%7C+Fortinet+FCP+Certified+%F0%9F%8F%86;9%2B+Years+of+Engineering+Excellence+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zawthettin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zawthetzt@outlook.com)
+[![Singapore](https://img.shields.io/badge/📍_Singapore-FF6B6B?style=for-the-badge&logoColor=white)](#)
+[![SCS Member](https://img.shields.io/badge/SCS-Professional_Member-blue?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-> **Solutions Engineer | **Cybersecurity Professional** | **Professional Member, Singapore Computer Society**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-I'm a Solutions Engineer with 9+ years of experience spanning network engineering, cybersecurity, and solution delivery. I specialise in designing end-to-end technical architectures, translating complex business requirements into scalable systems, and bridging the gap between technical innovation and real-world customer needs.
+I'm a **Solutions Engineer** with **9+ years** of experience at the intersection of network engineering, cybersecurity, and solution delivery.
 
-Currently completing an **MSc in Cyber Security** (University of West London) and pursuing **CEH certification**  always sharpening the edge.
+- 🔭 Currently working as a **Solutions Engineer** in Singapore
+- 🎓 Completing **MSc Cyber Security** @ University of West London *(Aug 2026)*
+- 🔐 Pursuing **CEH** (Certified Ethical Hacker) certification
+- 🌐 Expert in **enterprise networking**, **VSAT/satellite systems**, and **pre-sales architecture**
+- 🏆 Former **Connectivity Team Lead** — managed large-scale network infrastructure
+- 🤝 Professional Member of the **Singapore Computer Society (SCS)**
+- 💡 Passionate about bridging **technical innovation** and **real-world business needs**
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛡️ Certifications
 
-### Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<div align="center">
 
-### Cloud & Modern Tech
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+| 🏅 Certification | 🏢 Issuer | 📌 Status |
+|:---|:---:|:---:|
+| Cisco Certified Network Professional (CCNP) Enterprise | Cisco | ✅ Active |
+| Cisco Specialist – Enterprise Advanced Infrastructure | Cisco | ✅ Active |
+| Cisco Specialist – Enterprise Core | Cisco | ✅ Active |
+| Fortinet Certified Professional – Network Security | Fortinet | ✅ Active |
+| Inmarsat G2X+FB Installation | Inmarsat | ✅ Certified |
+| Intellian GX60NX, GX100NX, V60E, V100E, C700 | Intellian | ✅ Certified |
+| Certified Ethical Hacker (CEH) | EC-Council | 🔄 In Progress |
+
+</div>
+
 ---
-## 📊 Areas of Expertise
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Networking & Security
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+### 💻 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Expertise Radar
+
+<div align="center">
 
 ```
-Network Engineering     ████████████████████  Expert
-Cybersecurity           ████████████████░░░░  Advanced
-Solutions Engineering   ███████████████░░░░░  Advanced
-Cloud Computing         ████████████░░░░░░░░  Intermediate
-Satellite/VSAT          ████████████████████  Expert
-Team Leadership         ████████████████░░░░  Advanced
-Software Engineering    ████████████████░░░░  Advanced
-AI                      ████████████████░░░░  Advanced
+╔══════════════════════════════════════════════════════╗
+║              AREAS OF EXPERTISE                      ║
+╠══════════════════════════════════════════╦═══════════╣
+║  Network Engineering    ██████████████  ║  Expert   ║
+║  Satellite / VSAT       ██████████████  ║  Expert   ║
+║  Cybersecurity          ████████████░░  ║  Advanced ║
+║  Solutions Engineering  ███████████░░░  ║  Advanced ║
+║  Team Leadership        ████████████░░  ║  Advanced ║
+║  AI & Automation        ████████░░░░░░  ║  Growing  ║
+║  Cloud Computing        ████████░░░░░░  ║  Intermed ║
+╚══════════════════════════════════════════╩═══════════╝
 ```
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 💼 Career Journey
 
-I'm always open to discussing cybersecurity, network architecture, solutions engineering, and emerging technology trends.
+<div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zawthettin)
+```mermaid
+%%{init: { 'theme': 'dark' } }%%
+timeline
+    title Career Timeline
+    2017 : Junior Network Engineer
+    2018 : Associate Network Engineer
+    2019 : Senior Network Engineer
+    2022 : Network Support Engineer · Singapore
+    2024 : Connectivity Team Lead · Singapore
+    2026 : Solutions Engineer · Singapore
+```
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year |
+|:---|:---|:---:|
+| MSc Cyber Security | University of West London | Aug 2026 *(Expected)* |
+| BSc Physics | Yangon University of Distance Education | 2017 |
+| Diploma in Network Engineering | National Management Degree College | 2016 |
+
+</div>
+
+---
+
+## 🌟 Key Achievements
+
+<div align="center">
+
+| 🏆 Achievement | 📊 Scale |
+|:---|:---:|
+| 🌐 Enterprise network management | 2,000+ routers |
+| 📡 Wireless infrastructure | 20,000+ APs |
+| 🛰️ VSAT & satellite system deployments | Multiple platforms |
+| 👥 Engineering team leadership | Full team lifecycle |
+| 🔐 Security compliance implementation | Enterprise-grade |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zawthetzt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawthetzt&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zawthetzt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zawthettin)
+
+*Open to discussing cybersecurity, network architecture, solutions engineering, and emerging tech trends.*
+
+</div>
+
 ---
 
 <div align="center">
-<i>"Bridging technical innovation and customer needs — one solution at a time."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1f6e,100:0d1117&height=120&section=footer" width="100%"/>
+
+*"Bridging technical innovation and customer needs — one solution at a time."*
+
 </div>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawthetzt&theme=default" alt="zawthetzt" /></p>
