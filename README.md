@@ -9,7 +9,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zawthettin)
-[![Singapore](https://img.shields.io/badge/📍_Singapore-FF6B6B?style=for-the-badge&logoColor=white)](#)
 [![SCS Member](https://img.shields.io/badge/SCS-Professional_Member-blue?style=for-the-badge&logoColor=white)](#)
 
 </div>
@@ -22,8 +21,8 @@
 
 I'm a **Solutions Engineer** with **9+ years** of experience at the intersection of network engineering, cybersecurity, and solution delivery.
 
-- 🔭 Currently working as a **Solutions Engineer** in Singapore
-- 🎓 Completing **MSc Cyber Security** @ University of West London *(Aug 2026)*
+- 🔭 Currently working as a **Solutions Engineer**
+- 🎓 Completing **MSc Cyber Security** *(2026)*
 - 🔐 Pursuing **CEH** (Certified Ethical Hacker) certification
 - 🌐 Expert in **enterprise networking**, **VSAT/satellite systems**, and **pre-sales architecture**
 - 🏆 Former **Connectivity Team Lead** — managed large-scale network infrastructure
@@ -31,24 +30,6 @@ I'm a **Solutions Engineer** with **9+ years** of experience at the intersection
 - 💡 Passionate about bridging **technical innovation** and **real-world business needs**
 
 <br clear="right"/>
-
----
-
-## 🛡️ Certifications
-
-<div align="center">
-
-| 🏅 Certification | 🏢 Issuer | 📌 Status |
-|:---|:---:|:---:|
-| Cisco Certified Network Professional (CCNP) Enterprise | Cisco | ✅ Active |
-| Cisco Specialist – Enterprise Advanced Infrastructure | Cisco | ✅ Active |
-| Cisco Specialist – Enterprise Core | Cisco | ✅ Active |
-| Fortinet Certified Professional – Network Security | Fortinet | ✅ Active |
-| Inmarsat G2X+FB Installation | Inmarsat | ✅ Certified |
-| Intellian GX60NX, GX100NX, V60E, V100E, C700 | Intellian | ✅ Certified |
-| Certified Ethical Hacker (CEH) | EC-Council | 🔄 In Progress |
-
-</div>
 
 ---
 
@@ -102,40 +83,6 @@ I'm a **Solutions Engineer** with **9+ years** of experience at the intersection
 ║  Cloud Computing        ████████░░░░░░  ║  Intermed ║
 ╚══════════════════════════════════════════╩═══════════╝
 ```
-
-</div>
-
----
-
-## 💼 Career Journey
-
-<div align="center">
-
-```mermaid
-%%{init: { 'theme': 'dark' } }%%
-timeline
-    title Career Timeline
-    2017 : Junior Network Engineer
-    2018 : Associate Network Engineer
-    2019 : Senior Network Engineer
-    2022 : Network Support Engineer · Singapore
-    2024 : Connectivity Team Lead · Singapore
-    2026 : Solutions Engineer · Singapore
-```
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year |
-|:---|:---|:---:|
-| MSc Cyber Security | University of West London | Aug 2026 *(Expected)* |
-| BSc Physics | Yangon University of Distance Education | 2017 |
-| Diploma in Network Engineering | National Management Degree College | 2016 |
 
 </div>
 
