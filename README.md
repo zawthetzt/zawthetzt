@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm ZACK</h1>
 <h3 align="center">A passionate Solution Engineer for Netowkring, Cybersecurity and Software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawthetzt&label=Profile%20views&color=0e75b6&style=plastic" alt="zawthetzt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zawthetzt" alt="zawthetzt" /></a> </p>
-
-- 🔭 I’m currently working on **Building the solution for Maritime**
+- 🔭 I’m currently working on **Creating the solution for Maritime**
 
 - 🌱 I’m currently learning **Cybersecurity, Programming, AI**
 
 - 👯 I’m looking to collaborate on **Open source**
-
-- 📫 How to reach me **zawthetzt2017@gmail.com**
 
 - ⚡ Fun fact **always active on phone xD**
 
