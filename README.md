@@ -40,6 +40,8 @@ Solutions Engineering   ███████████████░░░�
 Cloud Computing         ████████████░░░░░░░░  Intermediate
 Satellite/VSAT          ████████████████████  Expert
 Team Leadership         ████████████████░░░░  Advanced
+Software Engineering    ████████████████░░░░  Advanced
+AI                      ████████████████░░░░  Advanced
 ```
 
 ---
