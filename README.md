@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zawthettin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zawthetzt@outlook.com)
-[![Location](https://img.shields.io/badge/Singapore-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
@@ -12,11 +11,11 @@
 
 ## 🚀 About Me
 
-> **Solutions Engineer @ iO3 Pte Ltd** | **Cybersecurity Professional** | **Professional Member, Singapore Computer Society**
+> **Solutions Engineer | **Cybersecurity Professional** | **Professional Member, Singapore Computer Society**
 
 I'm a Solutions Engineer with 9+ years of experience spanning network engineering, cybersecurity, and solution delivery. I specialise in designing end-to-end technical architectures, translating complex business requirements into scalable systems, and bridging the gap between technical innovation and real-world customer needs.
 
-Currently completing an **MSc in Cyber Security** (University of West London) and pursuing **CEH certification** — always sharpening the edge.
+Currently completing an **MSc in Cyber Security** (University of West London) and pursuing **CEH certification**  always sharpening the edge.
 
 ---
 
@@ -28,39 +27,10 @@ Currently completing an **MSc in Cyber Security** (University of West London) an
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-- **Routing & Switching:** OSPF, ISIS, SD-WAN, MPLS, BGP
-- **Security:** Firewall policy, network segmentation, compliance, vulnerability management
-- **Wireless:** Ruckus AP (20,000+ APs), 802.1x, enterprise WLAN
-- **VSAT & Satellite:** Inmarsat G2X+FB, Intellian GX60NX, GX100NX, V60E, V100E, C700
-- **WAN Optimisation:** Load balancing, failover, priority-based traffic shaping
-
 ### Cloud & Modern Tech
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-- Cloud architecture fundamentals, cloud security principles
-- API integrations, system workflows, POC delivery
-- Capacity planning and infrastructure optimisation
-
-### Solutions Engineering
-- Technical discovery & pre-sales support
-- Product demos, deep dives, and proof-of-concept delivery
-- Cross-functional collaboration: Sales, Product, Engineering
-- Communicating complex technical concepts to non-technical stakeholders
-
 ---
-
-## 🌟 Key Highlights
-
-- 🏆 Led a team of network engineers as **Connectivity Team Lead** — oversaw infrastructure upgrades, performance reviews, and vendor management
-- 🌐 Managed and optimised networks for **2,000+ routers** and **20,000+ wireless APs** 
-- 🛰️ Certified in installation of multiple **VSAT and maritime satellite** systems
-- 🔐 Deep expertise at the intersection of **network engineering and cybersecurity**
-- 🤝 Professional Member of the **Singapore Computer Society (SCS)**
-- 📡 Experienced in **VSAT commissioning**, site surveys, bandwidth monitoring, and interference mitigation
-
----
-
 ## 📊 Areas of Expertise
 
 ```
