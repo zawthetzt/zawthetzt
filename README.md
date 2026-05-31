@@ -1,19 +1,90 @@
-<h1 align="center">Hi 👋, I'm ZACK</h1>
-<h3 align="center">A passionate Solution Engineer for Netowkring, Cybersecurity and Software</h3>
+# Hi there, I'm Zaw Thet Tin 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawthetzt&label=Profile%20views&color=0e75b6&style=plastic" alt="zawthetzt" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Building the solution for Maritime**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zawthettin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zawthetzt@outlook.com)
+[![Location](https://img.shields.io/badge/Singapore-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
-- 🌱 I’m currently learning **Cybersecurity, Programming, AI**
+</div>
 
-- 👯 I’m looking to collaborate on **Open source**
+---
 
-- ⚡ Fun fact **always active on phone xD**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+> **Solutions Engineer @ iO3 Pte Ltd** | **Cybersecurity Professional** | **Professional Member, Singapore Computer Society**
+
+I'm a Solutions Engineer with 9+ years of experience spanning network engineering, cybersecurity, and solution delivery. I specialise in designing end-to-end technical architectures, translating complex business requirements into scalable systems, and bridging the gap between technical innovation and real-world customer needs.
+
+Currently completing an **MSc in Cyber Security** (University of West London) and pursuing **CEH certification** — always sharpening the edge.
+
+---
+
+## 🛠️ Technical Skills
+
+### Networking & Infrastructure
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+- **Routing & Switching:** OSPF, ISIS, SD-WAN, MPLS, BGP
+- **Security:** Firewall policy, network segmentation, compliance, vulnerability management
+- **Wireless:** Ruckus AP (20,000+ APs), 802.1x, enterprise WLAN
+- **VSAT & Satellite:** Inmarsat G2X+FB, Intellian GX60NX, GX100NX, V60E, V100E, C700
+- **WAN Optimisation:** Load balancing, failover, priority-based traffic shaping
+
+### Cloud & Modern Tech
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+- Cloud architecture fundamentals, cloud security principles
+- API integrations, system workflows, POC delivery
+- Capacity planning and infrastructure optimisation
+
+### Solutions Engineering
+- Technical discovery & pre-sales support
+- Product demos, deep dives, and proof-of-concept delivery
+- Cross-functional collaboration: Sales, Product, Engineering
+- Communicating complex technical concepts to non-technical stakeholders
+
+---
+
+## 🌟 Key Highlights
+
+- 🏆 Led a team of network engineers as **Connectivity Team Lead** — oversaw infrastructure upgrades, performance reviews, and vendor management
+- 🌐 Managed and optimised networks for **2,000+ routers** and **20,000+ wireless APs** 
+- 🛰️ Certified in installation of multiple **VSAT and maritime satellite** systems
+- 🔐 Deep expertise at the intersection of **network engineering and cybersecurity**
+- 🤝 Professional Member of the **Singapore Computer Society (SCS)**
+- 📡 Experienced in **VSAT commissioning**, site surveys, bandwidth monitoring, and interference mitigation
+
+---
+
+## 📊 Areas of Expertise
+
+```
+Network Engineering     ████████████████████  Expert
+Cybersecurity           ████████████████░░░░  Advanced
+Solutions Engineering   ███████████████░░░░░  Advanced
+Cloud Computing         ████████████░░░░░░░░  Intermediate
+Satellite/VSAT          ████████████████████  Expert
+Team Leadership         ████████████████░░░░  Advanced
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing cybersecurity, network architecture, solutions engineering, and emerging technology trends.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/zawthettin)
+---
+
+<div align="center">
+<i>"Bridging technical innovation and customer needs — one solution at a time."</i>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
